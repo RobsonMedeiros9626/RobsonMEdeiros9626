@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**RobsonMedeiros9626/RobsonMEdeiros9626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Olá, eu sou Robson Medeiros! 👋
+💻 Desenvolvedor focado em Javascript, css, php.  
+🚀 Atualmente trabalhando em Aplicativo de vendas.  
+🌱 Sempre aprendendo Javascript, css, php. 
+### Minhas habilidades:
+- Javascript, css, php.
+- Node.js
+- Excel
+- Controle de Vendas (https://github.com/RobsonMedeiros9626/ControleDeVendas.git):Projeto criado para controlar melhor demanda de vendas
+📫 Entre em contato: oi11oi912@gmail.com | [Instagram](https://www.instagram.com/robson_medelros/)
